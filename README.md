@@ -10,14 +10,26 @@ Folders contain the following:
 Databases: values from meta-analyses and user inputs that are within two standard devaitions of the meta-analysis provided value at a ninety-nine percent confidence interval. 
     Contain values for elastic modulus, cross-sectional area, height, weight, BMI, BMD decay rate, and BMD starting value dependent on age, race, and gender. 
 
+    testing.py == area for running code without adding to main script. 
+
 Devnotes: development notes, labeled by project and sorted by date. 
+
+    template.md == quick document for copying and filling in devnotes for the day. 
 
 Equations: contain the equations used to calculate expected bone change by volume, mass, and density. 
 
+    testing.py == area for running code without adding to main script. 
+
 GUI: contains the files that allow backend code to be implemented in a user-friendly fashion. 
+
+    testing.py == area for running code without adding to main script. 
 
 Modeling: contains the files that alter a 3D render of a patient's bone based on their expected bone change by volume, mass, and density. 
 
-Persistance: allows medical practitioners to login, access patient records, update patient records. 
+    testing.py == area for running code without adding to main script. 
+
+Persistence: allows medical practitioners to login, access patient records, update patient records. 
+
+    testing.py == area for running code without adding to main script. 
 
 For all folders above, files will be added as they are written. 
