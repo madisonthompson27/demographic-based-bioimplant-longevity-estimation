@@ -25,7 +25,7 @@ GUI: contains the files that allow backend code to be implemented in a user-frie
     testing.py == area for running code without adding to main script. 
     
     splash_screen.py == loading screen to allow tkinter time to run smoothly once a user logs in. 
-        DBBL_Black == file used as loading screen during development.
+        DBBLE_Black.png == file used as loading screen during development.
 
 Modeling: contains the files that alter a 3D render of a patient's bone based on their expected bone change by volume, mass, and density. 
 
