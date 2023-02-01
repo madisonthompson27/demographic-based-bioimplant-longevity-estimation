@@ -13,3 +13,5 @@ File directory:
 	main.py
 		This file hosts the app itself, it is where all of the updates occur. This is home to the bpy deployment.
       
+      	bpyTemplate.py
+		Template file for using variables types to create a custom UI in blender. 
